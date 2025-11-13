@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <p>uilk的笔记本</p>
                 </div>
             `;
-            document.getElementById('contentTitle').textContent = '欢迎';
+            document.getElementById('contentTitle').textContent = 'OvO';
             setActiveLink(null);
         }
     });
