@@ -98,8 +98,8 @@ document.addEventListener('DOMContentLoaded', () => {
             // 如果没有 hash，显示欢迎页面
             document.getElementById('contentBody').innerHTML = `
                 <div class="welcome-message">
-                    <h1>欢迎使用电子笔记</h1>
-                    <p>请从左侧目录选择要查看的笔记内容，或使用顶部搜索框搜索笔记。</p>
+                    <h1>hihi</h1>
+                    <p>uilk的笔记本</p>
                 </div>
             `;
             document.getElementById('contentTitle').textContent = '欢迎';
